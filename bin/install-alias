@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+LAUNCHER="$ROOT/bin/tmiyw"
+BIN_DIR="${HOME}/.local/bin"
+LINK="${BIN_DIR}/tmiyw"
+MARKER="# tell-me-in-your-words"
+PATH_LINE='export PATH="$HOME/.local/bin:$PATH"'
+
+mkdir -p "$BIN_DIR"
+ln -sf "$LAUNCHER" "$LINK"
+chmod +x "$LAUNCHER"
+
+for rc in "${ZDOTDIR:-$HOME}/.zprofile" "${ZDOTDIR:-$HOME}/.zshrc"; do
+  [[ -f "$rc" ]] || touch "$rc"
+  if ! grep -Fq "$MARKER" "$rc" 2>/dev/null; then
+    {
+      echo ""
+      echo "$MARKER"
+      echo "$PATH_LINE"
+      echo "alias tmiyw='$LAUNCHER'"
+    } >> "$rc"
+    echo "Updated $rc"
+  else
+    echo "Already configured in $rc"
+  fi
+done
+
+echo ""
+echo "Installed: $LINK"
+echo "Open a new terminal tab, then run: tmiyw"

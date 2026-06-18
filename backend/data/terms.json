@@ -1,0 +1,223 @@
+[
+  {
+    "term": "Shingles",
+    "domain": "healthcare",
+    "aliases": [
+      "fingles",
+      "shingle",
+      "painful rash thing",
+      "skin burning rash",
+      "red itchy painful rash",
+      "weird painful rash",
+      "daane wali bimari",
+      "angavar daane",
+      "eruzione cutanea dolorosa",
+      "strana eruzione cutanea"
+    ],
+    "definition": "Shingles is a viral infection that can cause a painful rash, often appearing as a stripe of blisters on one side of the body.",
+    "source_name": "CDC",
+    "source_url": "https://www.cdc.gov/shingles/about/index.html",
+    "followups": [
+      "What symptoms should I watch for?",
+      "When should I see a doctor?",
+      "Is shingles contagious?"
+    ],
+    "followup_guidance": {
+      "What symptoms should I watch for?": "Common signs include burning, tingling, or numbness on one side of the body before a rash appears. The rash often forms a stripe or band of fluid-filled blisters. Some people also feel tired, sensitive to touch, or have mild fever.",
+      "When should I see a doctor?": "Contact a clinician promptly if you think you may have shingles, especially if the rash is near the eye, face, or spreads widely. Early treatment can reduce pain and complications. Seek urgent care for severe pain, vision changes, confusion, or weakness.",
+      "Is shingles contagious?": "You cannot give someone else shingles directly. However, the virus can spread to people who have not had chickenpox or the chickenpox vaccine, usually through direct contact with open blisters. They may develop chickenpox, not shingles."
+    }
+  },
+  {
+    "term": "Eczema",
+    "domain": "healthcare",
+    "aliases": [
+      "itchy dry skin",
+      "dry rash",
+      "skin allergy rash",
+      "prurito pelle secca",
+      "khujli wali skin"
+    ],
+    "definition": "Eczema is a group of conditions that cause inflamed, itchy, dry, or irritated skin.",
+    "source_name": "NIAMS",
+    "source_url": "https://www.niams.nih.gov/health-topics/atopic-dermatitis",
+    "followups": [
+      "What triggers eczema?",
+      "How is eczema treated?",
+      "When should I seek care?"
+    ],
+    "followup_guidance": {
+      "What triggers eczema?": "Flare-ups can be triggered by dry air, harsh soaps, fragrances, sweat, stress, allergens, and certain fabrics. Keeping a simple log of symptoms and daily habits can help you spot patterns to discuss with a clinician.",
+      "How is eczema treated?": "Care often focuses on moisturizing regularly, avoiding known irritants, and using treatments prescribed for inflammation or itching when needed. A healthcare professional can tailor a plan based on severity and skin areas affected.",
+      "When should I seek care?": "See a clinician if itching disrupts sleep, skin cracks or oozes, rashes spread, or over-the-counter care is not helping. Seek urgent care for signs of infection such as fever, spreading redness, warmth, or pus."
+    }
+  },
+  {
+    "term": "Migraine",
+    "domain": "healthcare",
+    "aliases": [
+      "bad headache",
+      "one side headache",
+      "light makes headache worse",
+      "emicrania",
+      "sir dard with light sensitivity"
+    ],
+    "definition": "Migraine is a neurological condition that can cause severe headaches, often with nausea and sensitivity to light or sound.",
+    "source_name": "NIH MedlinePlus",
+    "source_url": "https://medlineplus.gov/migraine.html",
+    "followups": [
+      "What are migraine symptoms?",
+      "What can trigger migraines?",
+      "When is a headache urgent?"
+    ],
+    "followup_guidance": {
+      "What are migraine symptoms?": "Migraines may include throbbing head pain, often on one side, plus nausea, vomiting, and sensitivity to light, sound, or smells. Some people experience aura, such as visual changes, before pain begins.",
+      "What can trigger migraines?": "Common triggers include stress, poor sleep, skipped meals, dehydration, hormonal changes, certain foods, alcohol, and bright light. Tracking episodes can help identify personal triggers to review with a clinician.",
+      "When is a headache urgent?": "Get urgent medical help for a sudden severe headache, headache with fever and stiff neck, weakness, confusion, vision loss, trouble speaking, or headache after a head injury. These may need immediate evaluation."
+    }
+  },
+  {
+    "term": "NDA",
+    "domain": "legal",
+    "aliases": [
+      "paper that keeps secrets",
+      "secret contract",
+      "confidentiality paper",
+      "document that stops sharing secrets",
+      "accordo di riservatezza",
+      "contratto segreto"
+    ],
+    "definition": "An NDA, or non-disclosure agreement, is a contract used to protect confidential information from being shared.",
+    "source_name": "Cornell Wex",
+    "source_url": "https://www.law.cornell.edu/wex/non-disclosure_agreement_%28nda%29",
+    "followups": [
+      "When do I need an NDA?",
+      "What should an NDA include?",
+      "Can an NDA be one-way or mutual?"
+    ],
+    "followup_guidance": {
+      "When do I need an NDA?": "An NDA is useful before sharing sensitive business, product, financial, or technical information with employees, contractors, investors, or potential partners. It helps define what must stay confidential and for how long.",
+      "What should an NDA include?": "Key sections usually cover what counts as confidential information, who must protect it, permitted uses, duration, exclusions, and remedies for breach. An attorney can tailor language to your jurisdiction and situation.",
+      "Can an NDA be one-way or mutual?": "Yes. A one-way NDA protects one party's information, while a mutual NDA protects both sides when each shares confidential details. The right structure depends on who is disclosing sensitive information."
+    }
+  },
+  {
+    "term": "LLC",
+    "domain": "legal",
+    "aliases": [
+      "small business company type",
+      "company with limited liability",
+      "business protection structure",
+      "societa responsabilita limitata"
+    ],
+    "definition": "An LLC, or limited liability company, is a business structure that can protect owners from some personal liability for business debts and obligations.",
+    "source_name": "SBA",
+    "source_url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
+    "followups": [
+      "Is an LLC right for me?",
+      "How is an LLC taxed?",
+      "What is the difference between LLC and corporation?"
+    ],
+    "followup_guidance": {
+      "Is an LLC right for me?": "An LLC may fit solo founders and small teams who want liability protection with flexible management. Consider your state rules, expected growth, funding plans, and tax preferences before choosing a structure.",
+      "How is an LLC taxed?": "By default, a single-member LLC is often taxed like a sole proprietorship and a multi-member LLC like a partnership, but LLCs can elect corporate taxation. A tax professional can help compare options for your income and goals.",
+      "What is the difference between LLC and corporation?": "LLCs usually offer flexible management and pass-through taxation options, while corporations have a more formal structure with shareholders, directors, and officers. Corporations may be preferable for certain fundraising or stock-compensation plans."
+    }
+  },
+  {
+    "term": "Trademark",
+    "domain": "legal",
+    "aliases": [
+      "protect my brand name",
+      "protect logo",
+      "brand protection",
+      "marchio",
+      "proteggere il nome del brand"
+    ],
+    "definition": "A trademark can protect words, phrases, symbols, or designs that identify the source of goods or services.",
+    "source_name": "USPTO",
+    "source_url": "https://www.uspto.gov/trademarks/basics/what-trademark",
+    "followups": [
+      "What can be trademarked?",
+      "How do I search existing trademarks?",
+      "Trademark vs copyright?"
+    ],
+    "followup_guidance": {
+      "What can be trademarked?": "Trademarks can protect brand names, logos, slogans, and other identifiers that distinguish your goods or services. Generic terms and purely descriptive marks may be harder to protect without acquired distinctiveness.",
+      "How do I search existing trademarks?": "Start with the USPTO trademark search system and broader web searches for similar names in your industry and region. A clearance search helps reduce risk before you invest in branding or file an application.",
+      "Trademark vs copyright?": "Trademarks protect brand identifiers used in commerce, while copyrights protect original creative works such as writing, art, music, and software. A logo might involve both, but they protect different aspects."
+    }
+  },
+  {
+    "term": "ETF",
+    "domain": "finance",
+    "aliases": [
+      "company baskets",
+      "basket of stocks",
+      "many companies at once",
+      "group of stocks",
+      "buy the market",
+      "gruppo di aziende insieme",
+      "paniere di azioni"
+    ],
+    "definition": "An ETF, or exchange-traded fund, is an investment fund that trades like a stock and can hold a basket of assets such as stocks or bonds.",
+    "source_name": "SEC Investor.gov",
+    "source_url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/exchange-traded-funds-etfs",
+    "followups": [
+      "ETF vs mutual fund?",
+      "Are ETFs risky?",
+      "How do ETF fees work?"
+    ],
+    "followup_guidance": {
+      "ETF vs mutual fund?": "ETFs usually trade on exchanges throughout the day like stocks, while mutual funds typically price once per day after markets close. ETFs often have lower minimums and can be tax-efficient, but product details vary by fund.",
+      "Are ETFs risky?": "ETF risk depends on what it holds. A broad market ETF still carries market risk, while sector or leveraged ETFs can be more volatile. Read the fund prospectus to understand holdings, strategy, and risks.",
+      "How do ETF fees work?": "Most ETFs charge an annual expense ratio that reduces returns over time. You may also pay brokerage commissions or bid-ask spreads when trading. Lower expense ratios are not the only factor to compare."
+    }
+  },
+  {
+    "term": "Mutual Fund",
+    "domain": "finance",
+    "aliases": [
+      "pooled investment",
+      "fund managed by company",
+      "many investors together",
+      "fondo comune"
+    ],
+    "definition": "A mutual fund pools money from investors to buy a portfolio of stocks, bonds, or other securities.",
+    "source_name": "SEC Investor.gov",
+    "source_url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded",
+    "followups": [
+      "Mutual fund vs ETF?",
+      "What are expense ratios?",
+      "What is an index mutual fund?"
+    ],
+    "followup_guidance": {
+      "Mutual fund vs ETF?": "Mutual funds are bought and sold at the end-of-day net asset value, while ETFs trade intraday on exchanges. Mutual funds may have minimum investments and different fee structures than ETFs.",
+      "What are expense ratios?": "The expense ratio is the annual fee charged by the fund, expressed as a percentage of assets. It covers management and operating costs and is deducted from fund returns rather than billed separately.",
+      "What is an index mutual fund?": "An index mutual fund tries to match the performance of a market index, such as the S&P 500, instead of actively picking securities. These funds often have lower costs than actively managed funds."
+    }
+  },
+  {
+    "term": "Roth IRA",
+    "domain": "finance",
+    "aliases": [
+      "after tax retirement account",
+      "tax free retirement account",
+      "retirement money after tax",
+      "conto pensione tasse pagate"
+    ],
+    "definition": "A Roth IRA is an individual retirement account funded with after-tax dollars, where qualified withdrawals may be tax-free.",
+    "source_name": "IRS",
+    "source_url": "https://www.irs.gov/retirement-plans/roth-iras",
+    "followups": [
+      "Who can contribute to a Roth IRA?",
+      "What are withdrawal rules?",
+      "Roth IRA vs traditional IRA?"
+    ],
+    "followup_guidance": {
+      "Who can contribute to a Roth IRA?": "Eligibility depends on income, tax-filing status, and annual contribution limits set by the IRS. Contributions are made with after-tax dollars, and not everyone qualifies at higher income levels.",
+      "What are withdrawal rules?": "Contributions can often be withdrawn without tax or penalty, but earnings may face taxes or penalties if withdrawn before age 59½ and before the account has been open for five years, with some exceptions.",
+      "Roth IRA vs traditional IRA?": "Traditional IRA contributions may be tax-deductible now with taxable withdrawals later, while Roth IRA contributions are made after tax with potentially tax-free qualified withdrawals in retirement. The better choice depends on current and expected future tax rates."
+    }
+  }
+]
